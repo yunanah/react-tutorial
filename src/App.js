@@ -1,5 +1,4 @@
 import React from 'react';
-import Hello from './Hello';
 import './App.css';
 import InputSample from './InputSample';
 
