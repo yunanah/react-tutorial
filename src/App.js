@@ -7,5 +7,4 @@ function App() {
     <InputSample />
   );
 }
-
 export default App;
